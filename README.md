@@ -1,2 +1,8 @@
-# EduPathways
-Edupathways is a comprehensive scholarship platform designed to support students at various academic levels, including undergraduate and graduate programs. The initiative offers multiple scholarships based on merit, annual family income, and academic performance. 
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
